@@ -1,3 +1,8 @@
+# apk下载
+
+https://lanzouyunwufeng.lanzoub.com/imi3V47fzq0d
+密码:6one
+
 # 快捷方式生成器 (QuickShortcut)
 
 一款Android快捷方式生成工具，一键生成快递身份码桌面快捷方式，支持拼多多、淘宝等电商平台。
