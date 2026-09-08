@@ -105,12 +105,6 @@ A: 支持Android 8.0 (API 26) 及以上版本。
 ### Q: 如何添加其他应用的快捷方式？
 A: 点击"自定义"按钮，手动输入目标应用的包名、Activity或URL Scheme。
 
-## 作者
-
-**秦源鑫**
-- 学校：南京邮电大学通达学院
-- GitHub：[@your-username](https://github.com/your-username)
-
 ## 致谢
 
 - Powered by Mimo v2.5
